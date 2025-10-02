@@ -1,0 +1,10 @@
+.access-denied {
+  padding: 2rem;
+  text-align: center;
+  color: #dc3545;
+  font-size: 1.1rem;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 4px;
+  margin: 2rem;
+}
